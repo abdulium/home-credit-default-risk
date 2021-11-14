@@ -1,8 +1,8 @@
 # Home Credit Default Risk
 
-## Table of Contents
+## TABLE OF CONTENTS
 <ul>
-<li><a href="#ack">Acknoledgement</a></li>
+<li><a href="#ack">Acknowledgement</a></li>
 <li><a href="#exec">Executive Summary</a></li>
 <li><a href="#bg">Background</a></li>
 <li><a href="#busund">Business Understanding</a></li>
