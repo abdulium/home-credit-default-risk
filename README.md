@@ -92,11 +92,11 @@ The key decisions we want to make from our analysis of the data are as follows:
 
 ## BUSINESS UNDERSTANDING
 
-### a) Business Objective:
+### a) Business objective:
 To determine the loan eligibility of people with insufficient or non-existent credit history using
 financial and non-financial indicators, such as income, age and education.
 
-### b) Situation Assessment:
+### b) Situation assessment:
 Generally, banks and other financial institutions review a person’s credit history to figure out
 his/her loan repayment ability. Based on such a review, they decide on whether to sanction
 a loan. Many financial institutions do not consider customers without enough credit history
@@ -104,7 +104,7 @@ even if they can repay their loans. This unserved portion of the population pres
 opportunity. A model will enable us to expand our business by identifying the profitable 
 members of this unbanked population.
 
-### c) Data Mining Goals:
+### c) Data mining goals:
 Through Clustering, Classification and Regression, we aim to identify the predictors of loan
 default, and build models to decide if the loan should be sanctioned and how much should be
 sanctioned. This would involve:
@@ -115,3 +115,16 @@ borrower’s inability to pay their instalments on time.
 and other features.
 3. Determining the amount of loan to be sanctioned based on the client’s repayment
 capacity.
+
+## DATA UNDERSTANDING
+
+### a) Data requirements:
+To assess a borrower’s capability and disposition towards loan repayment, we would need to
+examine several financial and non-financial factors. Credit worthiness of a client can be
+assessed using the industry-wide accepted “5 C’s”. The data required for this purpose may
+include:
+* *Capacity*: The financial/earning capacity of the borrower, identifying factors such as income
+(allowances, type of occupation, commission), debt to income ratio (should not exceed 43%).
+* *Capital*: The savings, equity and other investments of the customer, as well as evidence of
+money in account for more than 90 days.
+
