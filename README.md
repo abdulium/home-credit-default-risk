@@ -4,13 +4,16 @@ SUHAIL LALA, OLUWATIMILEHIN “SAM” THOMAS,
 ABDULRAHMAN ALRUBAIYA, VENKATA ADITYA IMMANNI
 
 ## ACKNOWLEDGEMENT
-Our project on HOME CREDIT DEFAULT RISK has been a great learning experience. We were
+Our project on Home Credit Default Risk has been a great learning experience. We were
 exposed to a variance of subject matter, concerns and arguments that helped us collectively
 assemble and shape the project.
+
 We acknowledge Dr. Prakash Shrivastava under whose guidance we were able to complete
 the project and effectively present its valuable benefits.
+
 A greater share of inputs and knowledge from each one of us made this project report
 possible to its rightful accuracy.
+
 To all our colleagues who have helped us either directly or indirectly, we are grateful for their
 valuable inputs.
 
