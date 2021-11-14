@@ -123,8 +123,13 @@ To assess a borrower’s capability and disposition towards loan repayment, we w
 examine several financial and non-financial factors. Credit worthiness of a client can be
 assessed using the industry-wide accepted “5 C’s”. The data required for this purpose may
 include:
-* *Capacity*: The financial/earning capacity of the borrower, identifying factors such as income
+* ***Capacity***: The financial/earning capacity of the borrower, identifying factors such as income
 (allowances, type of occupation, commission), debt to income ratio (should not exceed 43%).
-* *Capital*: The savings, equity and other investments of the customer, as well as evidence of
+* ***Capital***: The savings, equity and other investments of the customer, as well as evidence of
 money in account for more than 90 days.
-
+* ***Collateral***: Security (type of security), cost of money borrowed, ownership of property etc.
+* ***Conditions***: Type of loan/credit, Loan to Value Ratio, age of the customer and Loan Annuity
+relative to it.
+* ***Character***: History of late payments/default, and work history/background. The latter is
+used to determine employment stability – applicants who change jobs frequently or are self-
+employed pose a bigger risk for us.
