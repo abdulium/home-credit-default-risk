@@ -89,3 +89,29 @@ The key decisions we want to make from our analysis of the data are as follows:
 | Which loan applications do we accept? | Branch Manager, Credit Risk Manager & Loan Underwriter |
 | How much loan do we give to an applicant? | Branch Manager |
 | What demographics do we target our marketing at? | Marketing Manager |
+
+## BUSINESS UNDERSTANDING
+
+### a) Business Objective:
+To determine the loan eligibility of people with insufficient or non-existent credit history using
+financial and non-financial indicators, such as income, age and education.
+
+### b) Situation Assessment:
+Generally, banks and other financial institutions review a person’s credit history to figure out
+his/her loan repayment ability. Based on such a review, they decide on whether to sanction
+a loan. Many financial institutions do not consider customers without enough credit history
+even if they can repay their loans. This unserved portion of the population presents a business
+opportunity. A model will enable us to expand our business by identifying the profitable 
+members of this unbanked population.
+
+### c) Data Mining Goals:
+Through Clustering, Classification and Regression, we aim to identify the predictors of loan
+default, and build models to decide if the loan should be sanctioned and how much should be
+sanctioned. This would involve:
+
+1. Identifying patterns in the dataset and analyse the factors that give an insight on the
+borrower’s inability to pay their instalments on time.
+2. Classifying borrowers into different categories based on their income, age, education
+and other features.
+3. Determining the amount of loan to be sanctioned based on the client’s repayment
+capacity.
