@@ -63,8 +63,8 @@ reduction techniques such as PCA, and further stunt the growth/prune the decisio
 ## BACKGROUND
 ### a) Domain:
 Banking & Finance
-*Sub*: Consumer credit & Loan application
-*Company in Focus*: Home Credit
+Sub: Consumer credit & Loan application
+Company in Focus: Home Credit
 
 ### b) Brief description of the scenario:
 Home Credit strives to broaden financial inclusion for the unbanked population by providing
