@@ -1,5 +1,15 @@
 # Home Credit Default Risk
 
+## Table of Contents
+<ul>
+<li><a href="#ack">Acknoledgement</a></li>
+<li><a href="#exec">Executive Summary</a></li>
+<li><a href="#bg">Background</a></li>
+<li><a href="#busund">Business Understanding</a></li>
+<li><a href="#dataund">Data Understanding</a></li>
+</ul>
+
+<a id='ack'></a>
 ## ACKNOWLEDGEMENT
 Our project on Home Credit Default Risk has been a great learning experience. We were
 exposed to a variance of subject matter, concerns and arguments that helped us collectively
@@ -14,6 +24,7 @@ possible to its rightful accuracy.
 To all our colleagues who have helped us either directly or indirectly, we are grateful for their
 valuable inputs.
 
+<a id='exec'></a>
 ## EXECUTIVE SUMMARY
 
 Generally, banks and other financial institutions review a person’s credit history to figure out
@@ -57,6 +68,7 @@ Workers.
 For future models, we would like to include additional predictors, use dimensionality
 reduction techniques such as PCA, and further stunt the growth/prune the decision trees.
 
+<a id='bg'></a>
 ## BACKGROUND
 ### a) Domain:
 Banking & Finance
@@ -87,6 +99,7 @@ The key decisions we want to make from our analysis of the data are as follows:
 | How much loan do we give to an applicant? | Branch Manager |
 | What demographics do we target our marketing at? | Marketing Manager |
 
+<a id='busund'></a>
 ## BUSINESS UNDERSTANDING
 
 ### a) Business objective:
@@ -113,6 +126,7 @@ and other features.
 3. Determining the amount of loan to be sanctioned based on the client’s repayment
 capacity.
 
+<a id='dataund'></a>
 ## DATA UNDERSTANDING
 
 ### a) Data requirements:
