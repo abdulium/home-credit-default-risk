@@ -1,4 +1,4 @@
-# Home Credit Defaul Risk
+# Home Credit Default Risk
 
 SUHAIL LALA, OLUWATIMILEHIN “SAM” THOMAS,
 ABDULRAHMAN ALRUBAIYA, VENKATA ADITYA IMMANNI
@@ -56,3 +56,24 @@ Workers.
 
 For future models, we would like to include additional predictors, use dimensionality
 reduction techniques such as PCA, and further stunt the growth/prune the decision trees.
+
+## BACKGROUND
+### Domain:
+Banking & Finance
+*Sub*: Consumer credit & Loan application
+*Company in Focus*: Home Credit
+
+### Brief description of the scenario:
+Home Credit strives to broaden financial inclusion for the unbanked population by providing
+a positive and safe borrowing experience. The truth is, many people, including first-time
+borrowers and immigrants, struggle to get loans due to insufficient or non-existent credit
+history. In order to make sure this underserved population has a positive loan experience;
+Home Credit makes use of a variety of alternative data - including telco and transactional
+information - to predict their clients' repayment abilities.
+
+### Decisions of interest:
+The key decisions we want to make from our analysis of the data are as follows:
+
+1. Which loan applications do we accept?
+2. How much loan do we give to an applicant?
+3. What demographics do we target our marketing at?
