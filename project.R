@@ -1,3 +1,6 @@
+# Lala, Suhail            #Oluwatimilehin, Thomas
+# Alrubaiya, Abdulrahman  # Aditya Immanni, Venkata
+
 # Install packages
 install.packages("ggplot2")
 install.packages("ggpubr")
