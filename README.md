@@ -167,3 +167,18 @@ The data consists of:
 2.  Data obtained from the Credit Bureau
 
 We have obtained these datasets through Kaggle (https://www.kaggle.com/c/home-credit-default-risk/overview).
+
+### d) Quality:
+1. Accuracy – Kaggle screens all their datasets before posting them and as such, there
+should not be any error that significantly affects our analysis. However, we will scan
+for anomalies before starting our analysis.
+2. Accessibility – The dataset’s terms of use allow academic research and education. Our
+use is in conformity with those terms.
+3. Comprehensiveness – All required data within the entire scope of our work is collected
+and enough for our analysis.
+4. Consistency – Data is reliable, homogeneous, and replicable by different users.
+5. Currency – Since the data relates to past transactions, it is unlikely to change.
+6. Definition – All variables under consideration are well-defined and unambiguous.
+7. Relevancy – Data consists of factors which affect borrowings, and hence, is relevant
+for our purpose.
+8. Timeliness – Data was already available in the public domain (on Kaggle).
