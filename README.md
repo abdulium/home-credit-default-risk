@@ -80,6 +80,7 @@ The key decisions we want to make from our analysis of the data are as follows:
 
 ### d) Decision makers:
 | Decision of Interest | Decision Maker(s) |
+| -- | -- |
 | Which loan applications do we accept? | Branch Manager, Credit Risk Manager & Loan Underwriter |
 | How much loan do we give to an applicant? | Branch Manager |
 | What demographics do we target our marketing at? | Marketing Manager |
