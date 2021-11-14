@@ -58,12 +58,12 @@ For future models, we would like to include additional predictors, use dimension
 reduction techniques such as PCA, and further stunt the growth/prune the decision trees.
 
 ## BACKGROUND
-### Domain:
+### a) Domain:
 Banking & Finance
 *Sub*: Consumer credit & Loan application
 *Company in Focus*: Home Credit
 
-### Brief description of the scenario:
+### b) Brief description of the scenario:
 Home Credit strives to broaden financial inclusion for the unbanked population by providing
 a positive and safe borrowing experience. The truth is, many people, including first-time
 borrowers and immigrants, struggle to get loans due to insufficient or non-existent credit
@@ -71,9 +71,15 @@ history. In order to make sure this underserved population has a positive loan e
 Home Credit makes use of a variety of alternative data - including telco and transactional
 information - to predict their clients' repayment abilities.
 
-### Decisions of interest:
+### c) Decisions of interest:
 The key decisions we want to make from our analysis of the data are as follows:
 
 1. Which loan applications do we accept?
 2. How much loan do we give to an applicant?
 3. What demographics do we target our marketing at?
+
+### d) Decision makers:
+| Decision of Interest | Decision Maker(s) |
+| Which loan applications do we accept? | Branch Manager, Credit Risk Manager & Loan Underwriter |
+| How much loan do we give to an applicant? | Branch Manager |
+| What demographics do we target our marketing at? | Marketing Manager |
