@@ -1,8 +1,5 @@
 # Home Credit Default Risk
 
-SUHAIL LALA, OLUWATIMILEHIN “SAM” THOMAS,
-ABDULRAHMAN ALRUBAIYA, VENKATA ADITYA IMMANNI
-
 ## ACKNOWLEDGEMENT
 Our project on Home Credit Default Risk has been a great learning experience. We were
 exposed to a variance of subject matter, concerns and arguments that helped us collectively
