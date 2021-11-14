@@ -133,3 +133,30 @@ relative to it.
 * ***Character***: History of late payments/default, and work history/background. The latter is
 used to determine employment stability – applicants who change jobs frequently or are self-
 employed pose a bigger risk for us.
+
+### b) Describe data:
+We selected the following 19 out of 102 variables based on the above principles, through the
+removal of empty observations and multicollinearity:
+
+|Variables|Description|
+|:----|:----|
+|AMT_CREDIT| Credit amount of the loan|
+|CNT_CHILDREN| Number of children the client has|
+|NAME_FAMILY_STATUS| Family status of the client (Single| Married etc.)|
+|AMT_INCOME_TOTAL| Income of the client|
+|CODE_GENDER| Gender of the client|
+|DAYS_BIRTH| Client's age in days at the time of application|
+|DAYS_EMPLOYED| Number of days before the application the client started current employment|
+|FLAG_PHONE| Did client provide home phone (1=YES| 0=NO)|
+|NAME_EDUCATION_TYPE| Level of highest education the client achieved|
+|7EXT_SOURCE_2| Normalized score from external data source (Source 2)|
+|EXT_SOURCE_3| Normalized score from external data source (Source 3)|
+|REGION_POPULATION_RELATIVE| Normalized population of region where client lives|
+|FLAG_OWN_CAR| Flag if the client owns a car (1=YES| 0=NO)|
+|AMT_REQ_CREDIT_BUREAU_YEAR| Number of enquiries to Credit Bureau about the client one day year (excluding last 3 months before application)|
+|OCCUPATION_TYPE| Occupation of the client|
+|REG_CITY_NOT_LIVE_CITY| Flag if client's permanent address does not match contact address (1=different| 0=same| at city level)|
+|REGION_RATING_CLIENT| Our rating of the region where client lives (1|2|3)|
+|OBS_30_CNT_SOCIAL_CIRCLE| How many observations of client's social surroundings with observable 30 DPD (days past due) default|
+|TARGET| Target variable (1 - client with payment difficulties: he/she had late payment more than X days on at least one of the first Y instalments of the loan in our sample| 0 - all other cases)|
+
